@@ -1,0 +1,88 @@
+.body2 {
+  background-image: url('historic2.jpg');
+}
+.table1{
+background: rgba(255,255,255,0.75);
+font-size: 20px;
+font-style: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+table {
+width: 1100px;
+margin: 40px;
+table-layout: auto;
+}
+ul {
+   width: 250px;
+   font-size: 16px;
+font-style: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+	.parent {
+	position: absolute;
+    top: 0;
+    left: 0;
+    }
+	.text {
+	position: absolute;
+	top: 0;
+    left: 1320;
+	}
+    .landscape {
+    position: absolute;
+	width: 18px;
+	height: 12px;
+	border: 0.5px solid #000000;
+	opacity: 0.33;
+	}
+	.landscape2 {
+    position: absolute;
+	width: 18px;
+	height: 13.5px;
+	border: 0.5px solid #000000;
+	opacity: 0.33;
+	}
+	.profile {
+    position: absolute;
+	width: 12px;
+	height: 18px;
+	border: 0.5px solid #000000;
+	opacity: 0.33;
+    }
+	.profile2 {
+    position: absolute;
+	width: 13.5px;
+	height: 18px;
+	border: 0.5px solid #000000;
+	opacity: 0.33;
+    }
+    .square {
+    border: 0.5px solid #000000;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	opacity: 0.33;
+    }
+	.landscape:hover {
+	opacity: 1;
+	transform:scale(6);
+	}
+	.landscape2:hover {
+	opacity: 1;
+	transform:scale(6);
+	}
+	.profile:hover {
+	opacity: 1;
+	transform:scale(6);
+	}
+	.profile2:hover {
+	opacity: 1;
+	transform:scale(6);
+	}
+	.square:hover {
+	opacity: 1;
+	transform:scale(6);
+	}
+	.link1 {
+    opacity: 0.5;
+    }
